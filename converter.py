@@ -1,16 +1,16 @@
 
-
+print('Mariam Razmadze')
 
 
 unit = input("T or KG? ")
 amount = float(input("Amount: "))
 
-if unit == "T":
+if unit == "Tone":
 	print(f"{amount * 1000} Kg.")
 
-elif unit == "KG":
+elif unit == "KiloGrams":
 	print(f"{amount / 1000} Kg.")
 
 else:
-	print("Error!")
+	print("Oh no! Error!")
 	
