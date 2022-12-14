@@ -1,8 +1,4 @@
-
-
-
-
-unit = input("T or KG? ")
+unit = input("Tones or Kilograms? ")
 amount = float(input("Amount: "))
 
 if unit == "T":
