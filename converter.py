@@ -1,6 +1,7 @@
 
 
 print("Welcome to this game")
+prin("10:02")
 
 unit = input("T or KG? ")
 amount = float(input("Amount: "))
@@ -14,4 +15,4 @@ elif unit == "KG":
 else:
 	print("Error!")
 	print("Hello World")
- 
+ print("Bye Bye")
