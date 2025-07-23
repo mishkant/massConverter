@@ -1,7 +1,4 @@
 
-
-
-
 unit = input("T or KG? ")
 amount = float(input("Amount: "))
 
@@ -13,4 +10,3 @@ elif unit == "KG":
 
 else:
 	print("Error!")
-	
