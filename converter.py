@@ -11,3 +11,6 @@ elif unit == "KG":
 
 else:
 	print("Error!")
+
+
+print("Wona gadayvanilia")
