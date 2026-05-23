@@ -1,1 +1,1 @@
-Mass converter program (T/KG).
+Mass converter programm
